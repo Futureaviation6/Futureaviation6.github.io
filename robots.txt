@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow:
 
-Sitemap: https://futurecars5.github.io/sitemap.xml
+Sitemap: https://futureaviation6.github.io/sitemap.xml
