@@ -1,0 +1,18 @@
+title: Future Smartphones 2030–2040
+description: "Smartphones 2030–2040: holographic displays, thought control, quantum cores, infinite batteries, self-healing materials, instant global connection. Facts only, zero hype."
+url: https://futurecars5.github.io
+baseurl: ""
+permalink: pretty
+future: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: default
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
