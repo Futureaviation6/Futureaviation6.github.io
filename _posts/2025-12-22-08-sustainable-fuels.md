@@ -8,16 +8,8 @@ tags: [sustainable-aviation-fuel, saf, e-fuel, hydrogen-fuel, carbon-capture, ze
 ---
 
 
-<script>
-  atOptions = {
-    'key' : '782c51e6d5bf9e6f5b1279f481ecba53',
-    'format' : 'iframe',
-    'height' : 250,
-    'width' : 300,
-    'params' : {}
-  };
-</script>
-<script src="https://www.highperformanceformat.com/782c51e6d5bf9e6f5b1279f481ecba53/invoke.js"></script>
+
+
 
 
 
@@ -63,6 +55,3 @@ The probe banks away and fades into shadow: every drop now burns clean, bridging
 
 Ready to fly without compromise?
 
-<div class="next-chapter" style="margin-top: 3rem; padding: 1rem; background: #f0f0f0; border-radius: 8px; text-align: center;">
-<strong>Next chapter →</strong> <a href="/2025/12/23/09-airports-tomorrow/">09. Airports of Tomorrow: Vertiports and Beyond</a>
-</div>

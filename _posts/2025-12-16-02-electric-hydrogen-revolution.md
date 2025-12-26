@@ -8,16 +8,8 @@ tags: [electric-aviation, hydrogen-aircraft, evtol, zero-emission, air-taxi, sus
 ---
 
 
-<script>
-  atOptions = {
-    'key' : '782c51e6d5bf9e6f5b1279f481ecba53',
-    'format' : 'iframe',
-    'height' : 250,
-    'width' : 300,
-    'params' : {}
-  };
-</script>
-<script src="https://www.highperformanceformat.com/782c51e6d5bf9e6f5b1279f481ecba53/invoke.js"></script>
+
+
 
 
 
@@ -60,6 +52,3 @@ The probe finishes its pass and slips into shadow: the skies have gone green, an
 
 Ready to fly without leaving a trace?
 
-<div class="next-chapter" style="margin-top: 3rem; padding: 1rem; background: #f0f0f0; border-radius: 8px; text-align: center;">
-<strong>Next chapter →</strong> <a href="/2025/12/17/03-supersonic-renaissance/">03. Supersonic Renaissance: When Oceans Became Puddles</a>
-</div>

@@ -8,16 +8,8 @@ tags: [space-tourism, suborbital, orbital-hotels, virgin-galactic, blue-origin, 
 ---
 
 
-<script>
-  atOptions = {
-    'key' : '782c51e6d5bf9e6f5b1279f481ecba53',
-    'format' : 'iframe',
-    'height' : 250,
-    'width' : 300,
-    'params' : {}
-  };
-</script>
-<script src="https://www.highperformanceformat.com/782c51e6d5bf9e6f5b1279f481ecba53/invoke.js"></script>
+
+
 
 
 
@@ -63,6 +55,3 @@ The probe pulls away and fades into shadow: the void is no longer empty—it’s
 
 Ready to vacation among the stars?
 
-<div class="next-chapter" style="margin-top: 3rem; padding: 1rem; background: #f0f0f0; border-radius: 8px; text-align: center;">
-<strong>Next chapter →</strong> <a href="/2025/12/20/06-urban-air-mobility/">06. Urban Air Mobility: The Day Traffic Became History</a>
-</div>

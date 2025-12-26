@@ -8,16 +8,8 @@ tags: [evtol, hydrogen-aviation, supersonic, autonomous-flight, air-taxi, ai-pil
 ---
 
 
-<script>
-  atOptions = {
-    'key' : '782c51e6d5bf9e6f5b1279f481ecba53',
-    'format' : 'iframe',
-    'height' : 250,
-    'width' : 300,
-    'params' : {}
-  };
-</script>
-<script src="https://www.highperformanceformat.com/782c51e6d5bf9e6f5b1279f481ecba53/invoke.js"></script>
+
+
 
 
 
@@ -73,6 +65,3 @@ The probe completes its scan and fades into shadow: the sky becomes as natural a
 
 Ready for flights that feel like pure thought?
 
-<div class="next-chapter" style="margin-top: 3rem; padding: 1rem; background: #f0f0f0; border-radius: 8px; text-align: center;">
-<strong>Next chapter →</strong> <a href="/2025/12/16/02-electric-hydrogen-revolution/">02. Electric & Hydrogen Revolution: The Day Fuel Vanished Forever</a>
-</div>

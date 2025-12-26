@@ -8,16 +8,8 @@ tags: [urban-air-mobility, evtol, air-taxi, vertiport, autonomous-commute, 3d-ci
 ---
 
 
-<script>
-  atOptions = {
-    'key' : '782c51e6d5bf9e6f5b1279f481ecba53',
-    'format' : 'iframe',
-    'height' : 250,
-    'width' : 300,
-    'params' : {}
-  };
-</script>
-<script src="https://www.highperformanceformat.com/782c51e6d5bf9e6f5b1279f481ecba53/invoke.js"></script>
+
+
 
 
 
@@ -63,6 +55,3 @@ The probe climbs back into open sky and fades into shadow: ground traffic has be
 
 Ready to leave the jam behind and claim the sky?
 
-<div class="next-chapter" style="margin-top: 3rem; padding: 1rem; background: #f0f0f0; border-radius: 8px; text-align: center;">
-<strong>Next chapter →</strong> <a href="/2025/12/21/07-drone-revolution/">07. Drone Revolution: Cargo and Beyond</a>
-</div>

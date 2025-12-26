@@ -8,16 +8,8 @@ tags: [supersonic, hypersonic, boom-overture, sustainable-aviation-fuel, fast-fl
 ---
 
 
-<script>
-  atOptions = {
-    'key' : '782c51e6d5bf9e6f5b1279f481ecba53',
-    'format' : 'iframe',
-    'height' : 250,
-    'width' : 300,
-    'params' : {}
-  };
-</script>
-<script src="https://www.highperformanceformat.com/782c51e6d5bf9e6f5b1279f481ecba53/invoke.js"></script>
+
+
 
 
 
@@ -62,6 +54,3 @@ Prototypes are already shattering records today—your next transoceanic trip co
 The probe disengages and fades into shadow: the planet feels smaller, oceans reduced to puddles, and distance no longer a barrier.
 
 Ready for a world that fits in a single day?
-<div class="next-chapter" style="margin-top: 3rem; padding: 1rem; background: #f0f0f0; border-radius: 8px; text-align: center;">
-<strong>Next chapter →</strong> <a href="/2025/12/18/04-ai-skies/">04. AI Skies: When Pilots Became Optional</a>
-</div>
