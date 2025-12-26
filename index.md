@@ -5,7 +5,7 @@ description: "The future of aviation is here! Supersonic flights in 3 hours, ele
 ---
 
 <div class="home-hero">
-  <h1>Future Smartphones<br><span>2030–2040</span></h1>
+  <h1>Aviation<br><span>2030–2040</span></h1>
   <p class="subtitle">Everything already funded and built</p>
 </div>
 
