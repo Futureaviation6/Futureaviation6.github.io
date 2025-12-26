@@ -7,7 +7,18 @@ categories: future aviation
 tags: [urban-air-mobility, evtol, air-taxi, vertiport, autonomous-commute, 3d-city, 2030, 2040]
 ---
 
-# 6. Urban Air Mobility: The Day Traffic Became History (2030–2040)
+
+<script>
+  atOptions = {
+    'key' : '782c51e6d5bf9e6f5b1279f481ecba53',
+    'format' : 'iframe',
+    'height' : 250,
+    'width' : 300,
+    'params' : {}
+  };
+</script>
+<script src="https://www.highperformanceformat.com/782c51e6d5bf9e6f5b1279f481ecba53/invoke.js"></script>
+
 
 
 

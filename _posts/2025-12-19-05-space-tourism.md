@@ -7,7 +7,18 @@ categories: future aviation
 tags: [space-tourism, suborbital, orbital-hotels, virgin-galactic, blue-origin, lunar-flyby, 2030, 2040]
 ---
 
-# 5. Space Tourism: When Orbit Became Vacation (2030–2040)
+
+<script>
+  atOptions = {
+    'key' : '782c51e6d5bf9e6f5b1279f481ecba53',
+    'format' : 'iframe',
+    'height' : 250,
+    'width' : 300,
+    'params' : {}
+  };
+</script>
+<script src="https://www.highperformanceformat.com/782c51e6d5bf9e6f5b1279f481ecba53/invoke.js"></script>
+
 
 
 
